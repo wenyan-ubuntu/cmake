@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenyan/test/cmake/code/demo-code/demo2/main.cpp
+iostream
+-
+power.h
+/home/wenyan/test/cmake/code/demo-code/demo2/power.h
+
+/home/wenyan/test/cmake/code/demo-code/demo2/power.cpp
+cstdio
+-
+cstdlib
+-
+power.h
+/home/wenyan/test/cmake/code/demo-code/demo2/power.h
+
+/home/wenyan/test/cmake/code/demo-code/demo2/power.h
+cstdio
+-
+cstdlib
+-
+

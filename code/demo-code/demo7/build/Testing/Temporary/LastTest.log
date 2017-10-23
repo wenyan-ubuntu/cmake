@@ -1,0 +1,158 @@
+Start testing: Oct 20 19:29 CST
+----------------------------------------------------------
+1/8 Testing: test_run
+1/8 Test: test_run
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "5" "2"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_run" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+5^2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_run" end time: Oct 20 19:29 CST
+"test_run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: test_usage
+2/8 Test: test_usage
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_usage" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Usage: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo base exponent
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[ base exponent
+]
+"test_usage" end time: Oct 20 19:29 CST
+"test_usage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: test_5_2
+3/8 Test: test_5_2
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "5" "2"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_5_2" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+5^2 is 25
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_5_2" end time: Oct 20 19:29 CST
+"test_5_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: test_10_5
+4/8 Test: test_10_5
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "10" "5"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_10_5" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+10^5 is 100000
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 10000
+]
+"test_10_5" end time: Oct 20 19:29 CST
+"test_10_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: test_2_10
+5/8 Test: test_2_10
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "2" "10"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_2_10" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+2^10 is 1024
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 1024
+]
+"test_2_10" end time: Oct 20 19:29 CST
+"test_2_10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: test_5_3
+6/8 Test: test_5_3
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "5" "3"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_5_3" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+5^3 is 125
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 125
+]
+"test_5_3" end time: Oct 20 19:29 CST
+"test_5_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: test_10_2
+7/8 Test: test_10_2
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "10" "2"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_10_2" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+10^2 is 100
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 100
+]
+"test_10_2" end time: Oct 20 19:29 CST
+"test_10_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: test_2_8
+8/8 Test: test_2_8
+Command: "/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/Demo" "2" "8"
+Directory: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build
+"test_2_8" start time: Oct 20 19:29 CST
+Output:
+----------------------------------------------------------
+Now we use the standard library.
+Our own Math library. 
+2^8 is 256
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[is 256
+]
+"test_2_8" end time: Oct 20 19:29 CST
+"test_2_8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 20 19:29 CST

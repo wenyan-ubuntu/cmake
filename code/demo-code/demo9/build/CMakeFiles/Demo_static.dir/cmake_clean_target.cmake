@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libDEMO_STATIC.a"
+)

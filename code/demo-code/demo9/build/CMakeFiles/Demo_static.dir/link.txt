@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDEMO_STATIC.a  CMakeFiles/Demo_static.dir/main.cpp.o
+/usr/bin/ranlib libDEMO_STATIC.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libDemo_dynamic.so.1.1 -o libDemo_dynamic.so.1.0 CMakeFiles/Demo_dynamic.dir/main.cpp.o 

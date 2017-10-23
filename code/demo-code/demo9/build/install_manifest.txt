@@ -1,0 +1,8 @@
+/usr/local/bin/Demo
+/usr/local/lib/libDemo_dynamic.so.1.0
+/usr/local/lib/libDemo_dynamic.so.1.1
+/usr/local/lib/libDemo_dynamic.so
+/usr/local/lib/libDEMO_STATIC.a
+/usr/local/include/config.h
+/usr/local/bin/libpower.a
+/usr/local/include/power.h

@@ -1,0 +1,25 @@
+Determining if the function pow exists failed with the following output:
+Change Dir: /home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f0da7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f0da7.dir/build.make CMakeFiles/cmTC_f0da7.dir/build
+make[1]: Entering directory '/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f0da7.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pow   -o CMakeFiles/cmTC_f0da7.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.7/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘pow’
+/usr/share/cmake-3.7/Modules/CheckFunctionExists.c:7:3: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+   CHECK_FUNCTION_EXISTS();
+   ^~~~~~~~~~~~~~~~~~~~~
+Linking C executable cmTC_f0da7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f0da7.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pow    CMakeFiles/cmTC_f0da7.dir/CheckFunctionExists.c.o  -o cmTC_f0da7 
+CMakeFiles/cmTC_f0da7.dir/CheckFunctionExists.c.o：在函数‘main’中：
+CheckFunctionExists.c:(.text+0x15)：对‘pow’未定义的引用
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_f0da7.dir/build.make:97: recipe for target 'cmTC_f0da7' failed
+make[1]: *** [cmTC_f0da7] Error 1
+make[1]: Leaving directory '/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f0da7/fast' failed
+make: *** [cmTC_f0da7/fast] Error 2
+
+

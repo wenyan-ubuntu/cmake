@@ -1,0 +1,16 @@
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/install.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/list_install_components.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/install/strip.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/install/local.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/Demo.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/test.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/CMakeFiles/rebuild_cache.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/install/strip.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/install/local.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/install.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/list_install_components.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/test.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/power.dir
+/home/wenyan/wenyan/cmake/cmake/code/demo-code/demo8/build/src/CMakeFiles/rebuild_cache.dir

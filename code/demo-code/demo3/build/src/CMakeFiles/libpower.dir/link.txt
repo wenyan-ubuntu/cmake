@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibpower.a  CMakeFiles/libpower.dir/power.cpp.o
+/usr/bin/ranlib liblibpower.a

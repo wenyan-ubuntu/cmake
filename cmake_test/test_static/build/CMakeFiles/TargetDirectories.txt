@@ -1,0 +1,14 @@
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/install/strip.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/install/local.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/rebuild_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/list_install_components.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/CMakeFiles/install.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/install/strip.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/install/local.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/install.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/list_install_components.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/hello.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/hello_static.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/test_static/build/lib/CMakeFiles/rebuild_cache.dir

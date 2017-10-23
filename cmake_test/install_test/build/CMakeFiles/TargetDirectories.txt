@@ -1,0 +1,5 @@
+/home/wenyan/wenyan/cmake/cmake_test/install_test/build/CMakeFiles/rebuild_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/install_test/build/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/install_test/build/src/CMakeFiles/rebuild_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/install_test/build/src/CMakeFiles/edit_cache.dir
+/home/wenyan/wenyan/cmake/cmake_test/install_test/build/src/CMakeFiles/main.dir
